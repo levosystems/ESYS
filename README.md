@@ -7,4 +7,4 @@ LEVO was once a start-up aimed at delivering open source structures to the commu
 Now the project is hosted at DAR - DesignAdvancedResources.org a non profit aimed at Open Design Promotion and development.
 We are looking for collaboration, early adopters and left with a considerable ammount of material to redistribute for projects that will help develop this idea and ethos.
 
-All Designs are licensed under Creative Commons Atribuition 4.0
+All Designs are licensed under "Creative Commons Atribuition 4.0" [https://creativecommons.org/licenses/by/4.0/]
